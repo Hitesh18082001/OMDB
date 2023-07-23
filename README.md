@@ -11,3 +11,12 @@
 * There is an input box to rate that particular movie and also add a comment.
 * The comments and ratings will be stored in local storage for future reference.
 * All the comments and average ratings of a particular movie are located in the movie detail container.
+### Responsiveness
+
+
+![WhatsApp Image 2023-07-23 at 19 15 14 (1)](https://github.com/Hitesh18082001/OMDB/assets/57980966/b0eea666-9958-4226-bbb9-98604b752027)
+
+
+
+
+![WhatsApp Image 2023-07-23 at 19 15 14](https://github.com/Hitesh18082001/OMDB/assets/57980966/411b66ef-90f4-4ac8-ad18-99cceaa1f8a6)
